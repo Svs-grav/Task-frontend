@@ -1,4 +1,4 @@
-# Inforce Frontend Test Task
+# Task Frontend 
 
 ## The Stack
 
@@ -9,9 +9,9 @@
 
 ## Setup
 
-```git clone https://github.com/Svs-grav/inforce-frontend-test```
+```git clone https://github.com/Svs-grav/Task-frontend```
 
-```cd inforce-frontend-test```
+```cd Tas-frontend```
 
 ```npm i```
 
