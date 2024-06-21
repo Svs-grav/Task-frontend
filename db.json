@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "http://example.com/image1.jpg",
+      "name": "Product 1",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 2,
+      "imageUrl": "http://example.com/image2.jpg",
+      "name": "Product 2",
+      "count": 10,
+      "size": {
+        "width": 150,
+        "height": 150
+      },
+      "weight": "150g"
+    },
+
+    {
+      "id": 3,
+      "imageUrl": "http://example.com/image1.jpg",
+      "name": "Product 1",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://example.com/image2.jpg",
+      "name": "Product 2",
+      "count": 10,
+      "size": {
+        "width": 150,
+        "height": 150
+      },
+      "weight": "150g"
+    },
+
+    {
+      "id": 5,
+      "imageUrl": "http://example.com/image1.jpg",
+      "name": "Product 1",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 6,
+      "imageUrl": "http://example.com/image2.jpg",
+      "name": "Product 2",
+      "count": 10,
+      "size": {
+        "width": 150,
+        "height": 150
+      },
+      "weight": "150g"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "Great product!",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "text": "Would buy again.",
+      "productId": 1
+    },
+    {
+      "id": 3,
+      "text": "Not bad.",
+      "productId": 2
+    },
+    {
+      "id": 4,
+      "text": "Good value for money.",
+      "productId": 3
+    },
+
+    {
+      "id": 5,
+      "text": "Great product!",
+      "productId": 3
+    },
+    {
+      "id": 6,
+      "text": "Would buy again.",
+      "productId": 4
+    },
+    {
+      "id": 7,
+      "text": "Not bad.",
+      "productId": 5
+    },
+    {
+      "id": 8,
+      "text": "Good value for money.",
+      "productId": 5
+    },
+
+    {
+      "id": 9,
+      "text": "Great product!",
+      "productId": 6
+    },
+    {
+      "id": 10,
+      "text": "Would buy again.",
+      "productId": 3
+    },
+    {
+      "id": 11,
+      "text": "Not bad.",
+      "productId": 4
+    },
+    {
+      "id": 12,
+      "text": "Good value for money.",
+      "productId": 5
+    }
+  ]
+}
