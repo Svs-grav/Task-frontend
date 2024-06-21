@@ -9,11 +9,11 @@
 
 ## Setup
 
-`git clone https://github.com/Svs-grav/inforce-frontend-test`
-`cd inforce-frontend-test`
-`npm i`
-`npx json-server db.json`
-`npm run dev`
+```git clone https://github.com/Svs-grav/inforce-frontend-test```
+```cd inforce-frontend-test```
+```npm i```
+```npx json-server db.json```
+```npm run dev```
 
 ## Requirements
 
